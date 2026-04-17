@@ -15,7 +15,8 @@ The interface is designed with a sleek and minimal layout, making it visually ap
 - 🎨 Clean, modern UI design
 - 📱 Fully responsive layout (mobile, tablet, desktop)
 - 💡 Smooth interactions and transitions
-- 🎯 UI/UX Highlights
+  
+🎯 UI/UX Highlights :
 - Minimal and professional design
 - Centered login card layout
 - Clear input feedback and error states
